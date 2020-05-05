@@ -1,0 +1,12 @@
+{
+    "name": "admin/php-random-quotes-generator",
+    "description": "This library will generate a random quote for you.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+       "psr-4": {
+           "RandomQuotes\\": "src/"
+       }
+    },
+    "require": {}
+}
